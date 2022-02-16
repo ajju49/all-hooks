@@ -1,0 +1,60 @@
+body{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 10%;
+    background: rgb(3, 3, 32);
+    color: rgb(196, 242, 245);
+}
+
+button{
+    background-color: rgb(179, 226, 224);
+    padding: 15px;
+    width: 100px;
+    height: 50px;
+    margin: 20px 0 0 8%;
+    border-radius: 10px;
+}
+input{
+  
+    width: 200px;
+    margin: 20px;
+}
+.App-header{
+    display: flex;
+    flex-direction: column;
+    margin: 10% 0 20% 40%;
+}
+.myStyle{
+    margin-left: 25%;
+    width: 50vw;
+    height: 100px;
+    background-color: lightblue;
+    border: 1px solid gray;
+    box-shadow: 1px 2px 4px gray;
+}
+.btnInner{
+    background-color: rgb(154, 185, 12);
+    width: 80px;
+    height: 30px;
+    margin: 10px;
+    text-align: center;
+
+}
+form{
+    width: 20%;
+    height: 20vh;
+    background: cornflowerblue;
+    text-align: center;
+    margin: 10px 10px 10px 40%;
+   
+    
+}
+.showDetails{
+    width: 30vw;
+    height: 40px;
+    background: rgb(109, 201, 224);
+    color: rgb(20, 8, 3);
+    margin-left: 40%;
+    border-radius: 10px;
+}
